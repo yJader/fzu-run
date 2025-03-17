@@ -64,14 +64,14 @@ markdown 文件放置在 `/docs/postgraduate/{学校}` 下
 
 **[选做]**:创建虚拟环境
 
-```bash
+```
 python3 -m venv mkdocs_venv
 source mkdocs_venv/bin/activate
 ```
 
 随后运行以下命令
 
-```bash
+```
 pip install mkdocs
 pip install mkdocs-material
 pip install mkdocs-glightbox
